@@ -1,5 +1,5 @@
 
-:wave: Hi, I’m BHARATHBN-123.
+:wave: Hi, I’m @BHARATHBN-123.
 
 :eyes: I’m interested in R, Python, Data Science & Analytics, Tableau.
 
